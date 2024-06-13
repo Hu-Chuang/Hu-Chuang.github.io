@@ -20,7 +20,10 @@ The conflict between the polymorphic resource demands of intelligent application
 - Dual computing resource edge intelligent chip
 - Iot data collection chip for channel sharing
 
-![Research Achievement 1](../images/achievement1.png#pic_center =500x333)
+<p align="center">
+<img src="../images/achievement1.png" aligh="middle" align="middle" width="400"/>
+</p>
+<!--![Research Achievement 1](../images/achievement1.png#pic_center =500x333)-->
 
 
 Accelerated Optimization of Edge Intelligent Systems
