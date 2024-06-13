@@ -64,3 +64,5 @@ Conference Papers
 
 Patents
 ------
+- Dan Wang, **Chuang Hu,** Rui Lu, Xiaoyi Fan, 基于多镜像FPGA的加速器，加速器实现方法，终端设备及计算机可读存储介质, CN116541073A, Jun.2024
+- Dan Wang, Cheng Xu, **Chuang Hu,** Zhongxun Yang, 物联网数据传输方法、系统及电子设备, CN202011030296.03, Nov.2021
