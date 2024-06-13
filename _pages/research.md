@@ -20,7 +20,8 @@ The conflict between the polymorphic resource demands of intelligent application
 - Dual computing resource edge intelligent chip
 - Iot data collection chip for channel sharing
 
-![Research Achievement 1](../images/achievement1.png)
+![Research Achievement 1](../images/achievement1.png =500x)
+
 
 Accelerated Optimization of Edge Intelligent Systems
 ------
@@ -31,6 +32,8 @@ We propose targeted edge-cloud collaborative acceleration architectures for both
 - Model inference acceleration based on task segmentation and data-driven assignment
 - Hierarchical Federated Learning Acceleration
 
+![Research Achievement 2](../images/achievement2.png)
+
 
 Privacy Protection of Edge Intelligent Systems
 ------
@@ -38,3 +41,5 @@ In edge intelligence scenarios, there is a conflict between service quality and 
 
 - Multi-party model inference data privacy protection
 - Models and data privacy protection in federated learning
+
+![Research Achievement 3](../images/achievement3.png)
