@@ -21,6 +21,7 @@ author_profile: true
 -->
 
 <!--本人加粗；指导的学生下划线-->
+
 Journal Papers
 ------
 - <u>Fu, Sen,</u> Zhengjie Yang, **Chuang Hu,** and Wei Bao. "Personalized Federated Learning with Contrastive Momentum." IEEE Transactions on Big Data (2024).
@@ -43,7 +44,6 @@ Journal Papers
 - **Hu, Chuang,** Wei Bao, Dan Wang, Yi Qian, Muqiao Zheng, and Shi Wang. "sTube+ an IoT communication sharing architecture for smart after-sales maintenance in buildings." ACM Transactions on Sensor Networks (TOSN) 14, no. 3-4 (2018): 1-29.
 - Wang, Dan, Wei Bao, **Chuang Hu,** Yi Qian, Muqiao Zheng, and Shi Wang. "sTube: An architecture for IoT communication sharing." IEEE Communications Magazine 56, no. 7 (2018): 96-101.
 - Gong, Yili, **Chuang Hu,** Yanyan Xu, and Wenjie Wang. "A distributed file system with variable sized objects for enhanced random writes." The Computer Journal 59, no. 10 (2016): 1536-1550.
-
 
 
 Conference Papers
