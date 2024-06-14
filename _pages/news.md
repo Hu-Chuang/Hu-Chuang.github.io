@@ -29,4 +29,4 @@ author_profile: true
 
 [Nov.2022] Our first Chinese paper, titled "Implementation and Optimization of Apache Spark Caching System Based on Hybrid Memory," was awarded the Best Paper (2nd out of 69) at the Annual Meeting of the Chinese Computer Society's Distributed Systems Technical Committee.
 
-[Sep.2022] We invited Dr.Tianyi Liu from the University of Texas at San Antonio (UTSA) to give an academic lecture titled "Enabling 3D Applications in Public Cloud."
+[Sep.2022] We invited Dr.Tianyi Liu（刘天义博士） from the University of Texas at San Antonio (UTSA) to give an academic lecture titled "Enabling 3D Applications in Public Cloud."
