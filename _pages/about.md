@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage of Chuang Hu"
+title: "Chuang Hu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,12 +9,11 @@ redirect_from:
 
 Associate Professor of Computer Science, Wuhan University.
 
-Email: handc@whu.edu.cn
+Email: handc[at]whu.edu.cn
 
 **Biography:**
 
-I am currently an Assistant Professor of Computer Science at Wuhan University (WHU). I received my BS and MS degrees from Wuhan University in 2013 and 2016. I received my Ph.D. degree from the Hong Kong Polytechnic University in 2019. I am a member of IEEE.
-
+I am currently an Assistant Professor of Computer Science at Wuhan University (WHU).  I received my Ph.D. degree from the Hong Kong Polytechnic University (PolyU) in 2020. Prior to joining WHU, I was a Postdoctoral Researcher and Research Assistant at PolyU. 
 **Research Interests:**
 
 Edge learning, federated learning and analytics and distributed computing.
