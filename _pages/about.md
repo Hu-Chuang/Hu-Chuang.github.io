@@ -48,8 +48,6 @@ Alumni (Selected from supervised research students)
 - Junxuan Liao, Undergraduate student, 2022-2024 -> PhD student at UW-Madison
 - Sixing Lin, Undergraduate student, 2022-2024 -> Master student at THU IT
 - Nanxi Wu, Master student, 2022-2024 -> China Telecom, Shenzhen
-- Sen Wei, Master student, 2020-2022 -> China Telecom, Beijing
-
 
 Services
 ======
