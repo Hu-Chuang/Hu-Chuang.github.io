@@ -7,7 +7,7 @@ author_profile: true
 
 {% if site.author.googlescholar %}
   <!--！！-->
-  (Note: Student co-authors (co-)supervised by me are underlined)
+  <!--(Note: Student co-authors (co-)supervised by me are underlined)-->
 
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
@@ -24,26 +24,29 @@ author_profile: true
 
 Journal Papers
 ------
-- <u>Fu, Sen,</u> Zhengjie Yang, **Chuang Hu,** and Wei Bao. "Personalized Federated Learning with Contrastive Momentum." IEEE Transactions on Big Data (2024).
-- <u>Tu, Tianyu,</u> Zhili He, Zhigao Zheng, Zimu Zheng, Jiawei Jiang, Yili Gong, **Chuang Hu,** and Dazhao Cheng. "Towards Lifelong Unseen Task Processing With a Lightweight Unlabeled Data Schema for AIoT." IEEE Internet of Things Journal (2024).
-- Jiang, Jiawei, Yi Wei, Yu Liu, Wentao Wu, **Chuang Hu,** Zhigao Zheng, Ziyi Zhang, Yingxia Shao, and Ce Zhang. "How good are machine learning clouds? Benchmarking two snapshots over 5 years." The VLDB Journal 33, no. 3 (2024): 833-857.
-- Xiao, Ziqi, Zhili He, Huanghuang Liang, **Chuang Hu,** and Dazhao Cheng. "Controlling Aluminum Strip Thickness by Clustered Reinforcement Learning With Real-World Dataset." IEEE Transactions on Industrial Informatics (2024).
-- Cheng, Dazhao, <u>Kai Yan,</u> Xinquan Cai, Yili Gong, and **Chuang Hu.** "SLO-Aware Function Placement for Serverless Workflows With Layer-Wise Memory Sharing." IEEE Transactions on Parallel and Distributed Systems (2024).
-- Zhang, Zheng, Yaqi Xia, Hulin Wang, Donglin Yang, **Chuang Hu,** Xiaobo Zhou, and Dazhao Cheng. "MPMoE: Memory Efficient MoE for Pre-trained Models with Adaptive Pipeline Parallelism." IEEE Transactions on Parallel and Distributed Systems (2024).
-- Cai, Xinquan, Qianlong Sang, **Chuang Hu,** Yili Gong, Kun Suo, Xiaobo Zhou, and Dazhao Cheng. "Incendio: Priority-based Scheduling for Alleviating Cold Start in Serverless Computing." IEEE Transactions on Computers (2024).
-- Xu, Yukun, <u>Wenhan Wu,</u> Yili Gong, Kanye Ye Wang, **Chuang Hu,** and Dazhao Cheng. "Frustum: achieving high throughput in blockchain systems through hierarchical and pipelined sharding." (2024).
-- Liang, Huanghuang, Zheng Zhang, **Chuang Hu,** Yili Gong, and Dazhao Cheng. "A Survey on Spatio-temporal Big Data Analytics Ecosystem: Resource Management, Processing Platform, and Applications." IEEE Transactions on Big Data (2023).
-- Peng, Junkun, Qing Li, Xun Tang, Dan Zhao, **Chuang Hu,** and Yong Jiang. "A Cooperative Caching System in Heterogeneous Edge Networks." IEEE Transactions on Mobile Computing (2023).
-- **Hu, Chuang,** Rui Lu, Qianlong Sang, Huanghuang Liang, Dan Wang, Dazhao Cheng, Jin Zhang, Qing Li, and JunKun Peng. "An Edge-side Real-time Video Analytics System with Dual Computing Resource Control." IEEE Transactions on Computers (2023).
-- Liang, Huanghuang, Qianlong Sang, **Chuang Hu,** Yili Gong, Dazhao Cheng, Xiaobo Zhou, and Yu Wang. "TAPU: A Transmission-Analytics Processing Unit for Accelerating Multi-functions in IoT Gateways." IEEE Internet of Things Journal (2023).
-- Liang, Huanghuang, Qianlong Sang, **Chuang Hu,** Dazhao Cheng, Xiaobo Zhou, Dan Wang, Wei Bao, and Yu Wang. "DNN surgery: Accelerating DNN inference on the edge through layer partitioning." IEEE transactions on Cloud Computing (2023).
-- Shi, Siping, **Chuang Hu,** Dan Wang, Yifei Zhu, and Zhu Han. "Federated hd map updating through overlapping coalition formation game." IEEE Transactions on Mobile Computing (2023).
-- Shi, Siping, **Chuang Hu,** Dan Wang, Yifei Zhu, and Zhu Han. "Federated anomaly analytics for local model poisoning attack." IEEE Journal on Selected Areas in Communications 40, no. 2 (2021): 596-610.
-- **Hu, Chuang,** Rui Lu, and Dan Wang. "FEVA: A federated video analytics architecture for networked smart cameras." IEEE Network 35, no. 6 (2021): 163-170.
-- Chen, Qiong, Zimu Zheng, **Chuang Hu,** Dan Wang, and Fangming Liu. "Errata to" On-Edge Multi-Task Transfer Learning: Model and Practice With Data-Driven Task Allocation"." IEEE Trans. Parallel Distributed Syst. 31, no. 11 (2020): 2569.
-- **Hu, Chuang,** Wei Bao, Dan Wang, Yi Qian, Muqiao Zheng, and Shi Wang. "sTube+ an IoT communication sharing architecture for smart after-sales maintenance in buildings." ACM Transactions on Sensor Networks (TOSN) 14, no. 3-4 (2018): 1-29.
-- Wang, Dan, Wei Bao, **Chuang Hu,** Yi Qian, Muqiao Zheng, and Shi Wang. "sTube: An architecture for IoT communication sharing." IEEE Communications Magazine 56, no. 7 (2018): 96-101.
-- Gong, Yili, **Chuang Hu,** Yanyan Xu, and Wenjie Wang. "A distributed file system with variable sized objects for enhanced random writes." The Computer Journal 59, no. 10 (2016): 1536-1550.
+- Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, Chuang Hu, Zhigao Zheng, Ziyi Zhang, Yingxia Shao, Ce
+Zhang, “How Good Are Machine Learning Clouds?—Benchmarking Two Snapshots over Five Years”, The
+VLDB Journal (VLDBJ), 2024. [CCF A]
+- Kai Yan, Xinquan Cai, Chuang Hu , Yili Gong, Dazhao Cheng,“SLO-Aware Function Placement for Serverless Workflows with Layer-Wise Memory Sharing”, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024. [CCF A]
+- Zheng Zhang, Yaqi Xia, Hulin Wang, Donglin Yang, Chuang Hu, Xiaobo Zhou, Dazhao Cheng, “MPMoE: Memory Eﬀicient MoE for Pre-trained Models with Adaptive Pipeline Parallelism”, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024. [CCF A]
+- Xingquan Cai, Qianlong Sang, Chuang Hu, Yili Gong, Kun Suo, Xiaobo Zhou, Dazhao Cheng, “Incendio: Priority-based Scheduling for Alleviating Cold Start in Serverless Computing”, IEEE Transactions on
+Computers (TC), 2024. [CCF A]
+- Ziqi Xiao, Zhili He, Huanghuang Liang,Chuang Hu, Dazhao Cheng, “Controlling Aluminum Strip Thickness by Clustered Reinforcement Learning with Real-world Dataset”, IEEE Transactions on Industrial Informatics(TII), 2024. [CCF C]
+- Sen Fu, Zhengjie Yang, Chuang Hu, Wei Bao,“Personalized Federated Learning with Contrastive Momentum”, IEEE Transactions on Big Data (TBD), 2024. [CCF C]
+- Chuang Hu, Rui Lu, Qianlong Sang, Huanghuang Liang, Dan Wang, Dazhao Cheng, Jin Zhang, Qing Li, Junkun Peng, “An Edge-side Real-time Video Analytics System with Dual Computing Resource Control”, IEEE Transactions on Computers (TC), 2023.
+- Siping Shi, Chuang Hu, Dan Wang, and Yifei Zhu, and Zhu Han, “Federated HD Map Updating through Overlapping Coalition Formation Game”, IEEE Transactions on Mobile Computing (TMC), 2023. [CCF A]
+- Junkun Peng, Qing Li, Xun Tang, Dan Zhao, Chuang Hu and Yong Jiang, “A Cooperative Caching System in Heterogeneous Edge Networks”, IEEE Transactions on Mobile Computing (TMC), 2023.
+- Huanghuang Liang, Qianlong Sang, Chuang Hu, Yili Gong, Dazhao Cheng, Xiaobo Zhou, Yu Wang, “TAPU: A Transmission-Analytics Processing Unit for Accelerating Multi-functions in IoT Gateways”, IEEE Internet of Things Journal (IoTJ), 2023. [CCF C]
+- Huanghuang Liang, Zheng Zhang, Chuang Hu, Yili Gong, Dazhao Cheng,“A Survey on Spatio-temporal Big Data Analytics Ecosystem: Resource Management, Processing Platform, and Applications”, IEEE Transactions on Big Data (TBD), 2023. [CCF C]
+- Huanghuang Liang, Qianlong Sang, Chuang Hu, Dazhao Cheng, Xiaobo Zhou, Dan Wang, Wei Bao, Yu Wang, “DNN Surgery: Accelerating DNN Inference on the Edge through Layer Partitioning”, IEEE Transactions on Cloud Computing (TCC), 2023. [CCF C]
+- Siping Shi, Chuang Hu, Dan Wang, and Yifei Zhu, and Zhu Han, “Federated Anomaly Analytics for Local Model Poisoning Attack”, IEEE Journal on Selected Areas in Communications (JSAC), 2022.
+- Chuang Hu, Rui Lu, and Dan Wang, “FEVA: A FEderated Video Analytics Architecture for Networked Smart Cameras”, IEEE Network, 2021.
+- Qiong Chen, Zimu Zheng, Chuang Hu, Dan Wang, and Fangming Liu,“On-Edge Multi-Task Transfer Learning: Model and Practice With Data-Driven Task Allocation”, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2020. [CCF A]
+- Dan Wang, Wei Bao, Chuang Hu, Yi Qian, Muqiao Zheng and Shi Wang, “sTube: An Architecture for
+IoT Communication Sharing”, IEEE Communications Magazine, 2018.
+- Sen Wei, Haoran Zhou, Chuang Hu, Dazhao CHENG, “Implementation and Optimization of Apache Spark Cache System Based on Mixed Memory”. Computer Science, 2023, 50(6): 10-21. [CCF B]
+- Chuang Hu, Wei Bao, Dan Wang, Yi Qian, Muqiao Zheng and Shi Wang, “sTube+: An IoT Communication Sharing Architecture for Smart After-sales Maintenance in Buildings”, ACM Transactions on Sensor Networks (TOSN), 2018. [CCF B]
+- Yili Gong, Chuang Hu, Yanyan Xu, et al., “A Distributed File System with Variable Sized Objects for Enhanced Random Writes”, The Computer Journal, Volume 59, Number 10, Pages 1536-1550, 2016. [CCF B]
 
 
 Conference Papers
