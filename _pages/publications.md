@@ -24,13 +24,15 @@ author_profile: true
 
 Journal Papers
 ------
-- Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, **Chuang Hu**, Zhigao Zheng, Ziyi Zhang, Yingxia Shao, Ce Zhang,“[How Good Are Machine Learning Clouds?—Benchmarking Two Snapshots over Five Years](../_research/VLDBJ202401.pdf)”, VLDBJ, 2024. [CCF A]
-- Dazhao Cheng, Kai Yan, Xinquan Cai, Yili Gong, **Chuang Hu**,“[SLO-Aware Function Placement for Serverless Workflows with Layer-Wise Memory Sharing]((../_research/TPDS202401.pdf))”, IEEE TPDS, 2024. [CCF A]
+- Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, **Chuang Hu**, Zhigao Zheng, Ziyi Zhang, Yingxia Shao, Ce Zhang, “[How Good Are Machine Learning Clouds?—Benchmarking Two Snapshots over Five Years](../_research/VLDBJ202401.pdf)”, VLDBJ, 2024. [CCF A]
+- Dazhao Cheng, Kai Yan, Xinquan Cai, Yili Gong, **Chuang Hu**, “[SLO-Aware Function Placement for Serverless Workflows with Layer-Wise Memory Sharing](../_research/TPDS202401.pdf)”, IEEE TPDS, 2024. [CCF A]
+- Tianyu Tu, Zhili He, Zhigao Zheng, Zimu Zheng, Jiawei Jiang, Yili Gong, **Chuang Hu**, Dazhao Cheng, "[Towards Lifelong Unseen Task Processing With a Lightweight Unlabeled Data Schema for AIoT](../_research/IoTJ202401.pdf)", IEEE IoTJ, 2024. [CCF C]
 - Zheng Zhang, Yaqi Xia, Hulin Wang, Donglin Yang, **Chuang Hu**, Xiaobo Zhou, Dazhao Cheng, “[MPMoE: Memory Eﬀicient MoE for Pre-trained Models with Adaptive Pipeline Parallelism](../_research/VLDBJ202402.pdf)”, IEEE TPDS, 2024. [CCF A]
+- Yukun Xu, Wenhan Wu, Yili Gong, Kanye Ye Wang, **Chuang Hu**, Dazhao Cheng, "[Frustum: achieving high throughput in blockchain systems through hierarchical and pipelined sharding](../_research/BlockChain202401.pdf)", BlockChain, 2024
 - Xingquan Cai, Qianlong Sang, **Chuang Hu**, Yili Gong, Kun Suo, Xiaobo Zhou, Dazhao Cheng, “[Incendio: Priority-based Scheduling for Alleviating Cold Start in Serverless Computing](../_research/TC202401.pdf)”, IEEE TC, 2024. [CCF A]
 - Ziqi Xiao, Zhili He, Huanghuang Liang, **Chuang Hu**, Dazhao Cheng, “[Controlling Aluminum Strip Thickness by Clustered Reinforcement Learning with Real-world Dataset](../_research/TII202401.pdf)”, IEEE TII, 2024. [CCF C]
 - Sen Fu, Zhengjie Yang, **Chuang Hu**, Wei Bao, “[Personalized Federated Learning with Contrastive Momentum](../_research/TBD202401.pdf)”, IEEE TBD, 2024. [CCF C]
-- **Chuang Hu**, Rui Lu, Qianlong Sang, Huanghuang Liang, Dan Wang, Dazhao Cheng, Jin Zhang, Qing Li, Junkun Peng, “[An Edge-side Real-time Video Analytics System with Dual Computing Resource Control](../_research/TC202301.pdf)”, IEEE TC, 2023.
+- **Chuang Hu**, Rui Lu, Qianlong Sang, Huanghuang Liang, Dan Wang, Dazhao Cheng, Jin Zhang, Qing Li, Junkun Peng, “[An Edge-side Real-time Video Analytics System with Dual Computing Resource Control](../_research/TC202301.pdf)”, IEEE TC, 2023. [CCF A]
 - Siping Shi, **Chuang Hu**, Dan Wang, and Yifei Zhu, and Zhu Han, “Federated HD Map Updating through Overlapping Coalition Formation Game”, IEEE TMC, 2023. [CCF A]
 - Junkun Peng, Qing Li, Xun Tang, Dan Zhao, **Chuang Hu**, Yong Jiang, “A Cooperative Caching System in Heterogeneous Edge Networks”, IEEE TMC, 2023.
 - Huanghuang Liang, Qianlong Sang, **Chuang Hu**, Yili Gong, Dazhao Cheng, Xiaobo Zhou, Yu Wang, “TAPU: A Transmission-Analytics Processing Unit for Accelerating Multi-functions in IoT Gateways”, IEEE IoTJ, 2023. [CCF C]
