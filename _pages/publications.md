@@ -39,8 +39,8 @@ Journal Papers
 - Huanghuang Liang, Qianlong Sang, **Chuang Hu**, Yili Gong, Dazhao Cheng, Xiaobo Zhou, Yu Wang, “[TAPU: A Transmission-Analytics Processing Unit for Accelerating Multi-functions in IoT Gateways](../_research/IoTJ202301.pdf)”, IEEE IoTJ, 2023. [CCF C]
 - Huanghuang Liang, Qianlong Sang, **Chuang Hu**, Dazhao Cheng, Xiaobo Zhou, Dan Wang, Wei Bao, Yu Wang, “[DNN Surgery: Accelerating DNN Inference on the Edge through Layer Partitioning](../_research/TCC202301.pdf)”, IEEE TCC, 2023. [CCF C]
 - Siping Shi, **Chuang Hu**, Dan Wang, Yifei Zhu, Zhu Han, “[Federated Anomaly Analytics for Local Model Poisoning Attack](../_research/JSAC202201.pdf)”, IEEE JSAC, 2022. [CCF A]
-- **Chuang Hu**, Rui Lu, Dan Wang, “FEVA: A FEderated Video Analytics Architecture for Networked Smart Cameras”, IEEE Network, 2021.
-- Qiong Chen, Zimu Zheng, **Chuang Hu**, Dan Wang, and Fangming Liu, “On-Edge Multi-Task Transfer Learning: Model and Practice With Data-Driven Task Allocation”, IEEE TTPDS, 2020. [CCF A]
+- **Chuang Hu**, Rui Lu, Dan Wang, “[FEVA: A FEderated Video Analytics Architecture for Networked Smart Cameras](../_research/Network202201.pdf)”, IEEE Network, 2021.
+- Qiong Chen, Zimu Zheng, **Chuang Hu**, Dan Wang, and Fangming Liu, “[On-Edge Multi-Task Transfer Learning: Model and Practice With Data-Driven Task Allocation](../_research/TPDS2020202201.pdf)”, IEEE TPDS, 2020. [CCF A]
 - Dan Wang, Wei Bao, **Chuang Hu**, Yi Qian, Muqiao Zheng, Shi Wang, “sTube: An Architecture for IoT Communication Sharing”, IEEE Communications Magazine, 2018.
 - Sen Wei, Haoran Zhou, **Chuang Hu**, Dazhao CHENG, “Implementation and Optimization of Apache Spark Cache System Based on Mixed Memory”. Computer Science. [CCF B]
 - **Chuang Hu**, Wei Bao, Dan Wang, Yi Qian, Muqiao Zheng and Shi Wang, “sTube+: An IoT Communication Sharing Architecture for Smart After-sales Maintenance in Buildings”, ACM TOSN, 2018. [CCF B]
