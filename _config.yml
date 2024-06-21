@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Chuang Hu"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor, PhD and Master's supervisor. <br>Focusing on Edge Learning, Distributed Computing and Data Analytics."
-  location         : "D402, School of Computer Science, Wuhan University, Bayi Road, Wuhan, China."
+  bio              : "Assistant Professor<br>PhD and Master's supervisor<br>Focusing on Edge Learning, Distributed Computing and Data Analytics."
+  location         : "D402, School of Computer Science, Wuhan University<br>Bayi Road, Wucang, Wuhan, China."
   employer         : "Wuhan University"
   uri              : #
   email            : "handc[at]whu.edu.cn" 
