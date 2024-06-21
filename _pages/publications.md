@@ -25,8 +25,8 @@ author_profile: true
 Journal Papers
 ------
 - Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, **Chuang Hu**, Zhigao Zheng, Ziyi Zhang, Yingxia Shao, Ce Zhang,“[How Good Are Machine Learning Clouds?—Benchmarking Two Snapshots over Five Years](../_research/VLDBJ202401.pdf)”, VLDBJ, 2024. [CCF A]
-- Kai Yan, Xinquan Cai, **Chuang Hu**, Yili Gong, Dazhao Cheng,“SLO-Aware Function Placement for Serverless Workflows with Layer-Wise Memory Sharing”, IEEE TPDS, 2024. [CCF A]
-- Zheng Zhang, Yaqi Xia, Hulin Wang, Donglin Yang, **Chuang Hu**, Xiaobo Zhou, Dazhao Cheng, “MPMoE: Memory Eﬀicient MoE for Pre-trained Models with Adaptive Pipeline Parallelism”, IEEE TPDS, 2024. [CCF A]
+- Dazhao Cheng, Kai Yan, Xinquan Cai, Yili Gong, **Chuang Hu**,“[SLO-Aware Function Placement for Serverless Workflows with Layer-Wise Memory Sharing]((../_research/TPDS202401.pdf))”, IEEE TPDS, 2024. [CCF A]
+- Zheng Zhang, Yaqi Xia, Hulin Wang, Donglin Yang, **Chuang Hu**, Xiaobo Zhou, Dazhao Cheng, “[MPMoE: Memory Eﬀicient MoE for Pre-trained Models with Adaptive Pipeline Parallelism]((../_research/VLDBJ202402.pdf))”, IEEE TPDS, 2024. [CCF A]
 - Xingquan Cai, Qianlong Sang, **Chuang Hu**, Yili Gong, Kun Suo, Xiaobo Zhou, Dazhao Cheng, “Incendio: Priority-based Scheduling for Alleviating Cold Start in Serverless Computing”, IEEE TC, 2024. [CCF A]
 - Ziqi Xiao, Zhili He, Huanghuang Liang, **Chuang Hu**, Dazhao Cheng, “Controlling Aluminum Strip Thickness by Clustered Reinforcement Learning with Real-world Dataset”, IEEE TII, 2024. [CCF C]
 - Sen Fu, Zhengjie Yang, **Chuang Hu**, Wei Bao, “Personalized Federated Learning with Contrastive Momentum”, IEEE TBD, 2024. [CCF C]
