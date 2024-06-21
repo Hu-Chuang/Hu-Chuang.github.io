@@ -43,7 +43,7 @@ Journal Papers
 - Qiong Chen, Zimu Zheng, **Chuang Hu**, Dan Wang, and Fangming Liu, “[On-Edge Multi-Task Transfer Learning: Model and Practice With Data-Driven Task Allocation](../_research/TPDS202001.pdf)”, IEEE TPDS, 2020. [CCF A]
 - Dan Wang, Wei Bao, **Chuang Hu**, Yi Qian, Muqiao Zheng, Shi Wang, “[sTube: An Architecture for IoT Communication Sharing](../_research/Communication201801.pdf)”, IEEE Communications Magazine, 2018.
 - **Chuang Hu**, Wei Bao, Dan Wang, Yi Qian, Muqiao Zheng and Shi Wang, “[sTube+: An IoT Communication Sharing Architecture for Smart After-sales Maintenance in Buildings](../_research/TOSN201801.pdf)”, ACM TOSN, 2018. [CCF B]
-- Yili Gong, **Chuang Hu**, Yanyan Xu, et al., “[A Distributed File System with Variable Sized Objects for Enhanced Random Writes](../_research/CJ201601)”, The Computer Journal, 2016. [CCF B]
+- Yili Gong, **Chuang Hu**, Yanyan Xu, et al., “[A Distributed File System with Variable Sized Objects for Enhanced Random Writes](../_research/CJ201601.pdf)”, The Computer Journal, 2016. [CCF B]
 
 
 Conference Papers
