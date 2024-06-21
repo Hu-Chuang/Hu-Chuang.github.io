@@ -33,10 +33,10 @@ Journal Papers
 - Ziqi Xiao, Zhili He, Huanghuang Liang, **Chuang Hu**, Dazhao Cheng, “[Controlling Aluminum Strip Thickness by Clustered Reinforcement Learning with Real-world Dataset](../_research/TII202401.pdf)”, IEEE TII, 2024. [CCF C]
 - Sen Fu, Zhengjie Yang, **Chuang Hu**, Wei Bao, “[Personalized Federated Learning with Contrastive Momentum](../_research/TBD202401.pdf)”, IEEE TBD, 2024. [CCF C]
 - **Chuang Hu**, Rui Lu, Qianlong Sang, Huanghuang Liang, Dan Wang, Dazhao Cheng, Jin Zhang, Qing Li, Junkun Peng, “[An Edge-side Real-time Video Analytics System with Dual Computing Resource Control](../_research/TC202301.pdf)”, IEEE TC, 2023. [CCF A]
-- Siping Shi, **Chuang Hu**, Dan Wang, and Yifei Zhu, and Zhu Han, “Federated HD Map Updating through Overlapping Coalition Formation Game”, IEEE TMC, 2023. [CCF A]
-- Junkun Peng, Qing Li, Xun Tang, Dan Zhao, **Chuang Hu**, Yong Jiang, “A Cooperative Caching System in Heterogeneous Edge Networks”, IEEE TMC, 2023.
-- Huanghuang Liang, Qianlong Sang, **Chuang Hu**, Yili Gong, Dazhao Cheng, Xiaobo Zhou, Yu Wang, “TAPU: A Transmission-Analytics Processing Unit for Accelerating Multi-functions in IoT Gateways”, IEEE IoTJ, 2023. [CCF C]
-- Huanghuang Liang, Zheng Zhang, **Chuang Hu**, Yili Gong, Dazhao Cheng,“A Survey on Spatio-temporal Big Data Analytics Ecosystem: Resource Management, Processing Platform, and Applications”, IEEE TBD, 2023. [CCF C]
+- Huanghuang Liang, Zheng Zhang, **Chuang Hu**, Yili Gong, Dazhao Cheng, "A Survey on Spatio-Temporal Big Data Analytics Ecosystem: Resource Management, Processing Platform, and Applications (../_research/TBD202301.pdf)", IEEE TBD, 2023. [CCF C}
+- Siping Shi, **Chuang Hu**, Dan Wang, and Yifei Zhu, and Zhu Han, “[Federated HD Map Updating through Overlapping Coalition Formation Game](../_research/TMC202301.pdf)”, IEEE TMC, 2023. [CCF A]
+- Junkun Peng, Qing Li, Xun Tang, Dan Zhao, **Chuang Hu**, Yong Jiang, “[A Cooperative Caching System in Heterogeneous Edge Networks](../_research/TMC202302.pdf)”, IEEE TMC, 2023.
+- Huanghuang Liang, Qianlong Sang, **Chuang Hu**, Yili Gong, Dazhao Cheng, Xiaobo Zhou, Yu Wang, “[TAPU: A Transmission-Analytics Processing Unit for Accelerating Multi-functions in IoT Gateways](../_research/IoTJ202301.pdf)”, IEEE IoTJ, 2023. [CCF C]
 - Huanghuang Liang, Qianlong Sang, **Chuang Hu**, Dazhao Cheng, Xiaobo Zhou, Dan Wang, Wei Bao, Yu Wang, “DNN Surgery: Accelerating DNN Inference on the Edge through Layer Partitioning”, IEEE TCC, 2023. [CCF C]
 - Siping Shi, **Chuang Hu**, Dan Wang, Yifei Zhu, Zhu Han, “Federated Anomaly Analytics for Local Model Poisoning Attack”, IEEE JSAC, 2022. [CCF A]
 - **Chuang Hu**, Rui Lu, Dan Wang, “FEVA: A FEderated Video Analytics Architecture for Networked Smart Cameras”, IEEE Network, 2021.
