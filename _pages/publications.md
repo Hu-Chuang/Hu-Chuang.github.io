@@ -24,7 +24,7 @@ author_profile: true
 
 Journal Papers
 ------
-- Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, **Chuang Hu**, Zhigao Zheng, Ziyi Zhang, Yingxia Shao, Ce Zhang,“[How Good Are Machine Learning Clouds?—Benchmarking Two Snapshots over Five Years](/research/VLDBJ2024-1.pdf)”, VLDBJ, 2024. [CCF A]
+- Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, **Chuang Hu**, Zhigao Zheng, Ziyi Zhang, Yingxia Shao, Ce Zhang,“[How Good Are Machine Learning Clouds?—Benchmarking Two Snapshots over Five Years](../research/VLDBJ202401.pdf)”, VLDBJ, 2024. [CCF A]
 - Kai Yan, Xinquan Cai, **Chuang Hu**, Yili Gong, Dazhao Cheng,“SLO-Aware Function Placement for Serverless Workflows with Layer-Wise Memory Sharing”, IEEE TPDS, 2024. [CCF A]
 - Zheng Zhang, Yaqi Xia, Hulin Wang, Donglin Yang, **Chuang Hu**, Xiaobo Zhou, Dazhao Cheng, “MPMoE: Memory Eﬀicient MoE for Pre-trained Models with Adaptive Pipeline Parallelism”, IEEE TPDS, 2024. [CCF A]
 - Xingquan Cai, Qianlong Sang, **Chuang Hu**, Yili Gong, Kun Suo, Xiaobo Zhou, Dazhao Cheng, “Incendio: Priority-based Scheduling for Alleviating Cold Start in Serverless Computing”, IEEE TC, 2024. [CCF A]
