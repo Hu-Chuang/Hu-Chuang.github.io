@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Assistant Professor of Computer Science, Wuhan University.
-
-Email: handc[at]whu.edu.cn
+Assistant Professor 
+School of Computer Science, Wuhan University.
 
 **Biography:**
 I am currently an Assistant Professor at [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/). I got my B. Sc and M. Sc from Wuhan University, and Ph. D. from [the Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), and prior to joining WHU, I was a Postdoctoral Researcher and Research Assistant professor at PolyU. 
+
+Email: handc[at]whu.edu.cn
 
 **Research Interests:**
 Edge Learning, Distributed Computing, Data Analytics.
