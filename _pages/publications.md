@@ -27,7 +27,7 @@ Journal Papers
 - Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, **Chuang Hu**, Zhigao Zheng, Ziyi Zhang, Yingxia Shao, Ce Zhang, “[How Good Are Machine Learning Clouds?—Benchmarking Two Snapshots over Five Years](../_research/VLDBJ202401.pdf)”, VLDBJ, 2024. [CCF A]
 - Dazhao Cheng, Kai Yan, Xinquan Cai, Yili Gong, **Chuang Hu**, “[SLO-Aware Function Placement for Serverless Workflows with Layer-Wise Memory Sharing](../_research/TPDS202401.pdf)”, IEEE TPDS, 2024. [CCF A]
 - Tianyu Tu, Zhili He, Zhigao Zheng, Zimu Zheng, Jiawei Jiang, Yili Gong, **Chuang Hu**, Dazhao Cheng, "[Towards Lifelong Unseen Task Processing With a Lightweight Unlabeled Data Schema for AIoT](../_research/IoTJ202401.pdf)", IEEE IoTJ, 2024. [CCF C]
-- Zheng Zhang, Yaqi Xia, Hulin Wang, Donglin Yang, **Chuang Hu**, Xiaobo Zhou, Dazhao Cheng, “[MPMoE: Memory Eﬀicient MoE for Pre-trained Models with Adaptive Pipeline Parallelism](../_research/VLDBJ202402.pdf)”, IEEE TPDS, 2024. [CCF A]
+- Zheng Zhang, Yaqi Xia, Hulin Wang, Donglin Yang, **Chuang Hu**, Xiaobo Zhou, Dazhao Cheng, “[MPMoE: Memory Eﬀicient MoE for Pre-trained Models with Adaptive Pipeline Parallelism](../_research/TPDS202403.pdf)”, IEEE TPDS, 2024. [CCF A]
 - Yukun Xu, Wenhan Wu, Yili Gong, Kanye Ye Wang, **Chuang Hu**, Dazhao Cheng, "[Frustum: achieving high throughput in blockchain systems through hierarchical and pipelined sharding](../_research/BlockChain202401.pdf)", BlockChain, 2024
 - Xingquan Cai, Qianlong Sang, **Chuang Hu**, Yili Gong, Kun Suo, Xiaobo Zhou, Dazhao Cheng, “[Incendio: Priority-based Scheduling for Alleviating Cold Start in Serverless Computing](../_research/TC202401.pdf)”, IEEE TC, 2024. [CCF A]
 - Ziqi Xiao, Zhili He, Huanghuang Liang, **Chuang Hu**, Dazhao Cheng, “[Controlling Aluminum Strip Thickness by Clustered Reinforcement Learning with Real-world Dataset](../_research/TII202401.pdf)”, IEEE TII, 2024. [CCF C]
@@ -37,8 +37,8 @@ Journal Papers
 - Siping Shi, **Chuang Hu**, Dan Wang, and Yifei Zhu, and Zhu Han, “[Federated HD Map Updating through Overlapping Coalition Formation Game](../_research/TMC202301.pdf)”, IEEE TMC, 2023. [CCF A]
 - Junkun Peng, Qing Li, Xun Tang, Dan Zhao, **Chuang Hu**, Yong Jiang, “[A Cooperative Caching System in Heterogeneous Edge Networks](../_research/TMC202302.pdf)”, IEEE TMC, 2023.
 - Huanghuang Liang, Qianlong Sang, **Chuang Hu**, Yili Gong, Dazhao Cheng, Xiaobo Zhou, Yu Wang, “[TAPU: A Transmission-Analytics Processing Unit for Accelerating Multi-functions in IoT Gateways](../_research/IoTJ202301.pdf)”, IEEE IoTJ, 2023. [CCF C]
-- Huanghuang Liang, Qianlong Sang, **Chuang Hu**, Dazhao Cheng, Xiaobo Zhou, Dan Wang, Wei Bao, Yu Wang, “DNN Surgery: Accelerating DNN Inference on the Edge through Layer Partitioning”, IEEE TCC, 2023. [CCF C]
-- Siping Shi, **Chuang Hu**, Dan Wang, Yifei Zhu, Zhu Han, “Federated Anomaly Analytics for Local Model Poisoning Attack”, IEEE JSAC, 2022. [CCF A]
+- Huanghuang Liang, Qianlong Sang, **Chuang Hu**, Dazhao Cheng, Xiaobo Zhou, Dan Wang, Wei Bao, Yu Wang, “[DNN Surgery: Accelerating DNN Inference on the Edge through Layer Partitioning](../_research/TCC202301.pdf)”, IEEE TCC, 2023. [CCF C]
+- Siping Shi, **Chuang Hu**, Dan Wang, Yifei Zhu, Zhu Han, “[Federated Anomaly Analytics for Local Model Poisoning Attack](../_research/JSAC202201.pdf)”, IEEE JSAC, 2022. [CCF A]
 - **Chuang Hu**, Rui Lu, Dan Wang, “FEVA: A FEderated Video Analytics Architecture for Networked Smart Cameras”, IEEE Network, 2021.
 - Qiong Chen, Zimu Zheng, **Chuang Hu**, Dan Wang, and Fangming Liu, “On-Edge Multi-Task Transfer Learning: Model and Practice With Data-Driven Task Allocation”, IEEE TTPDS, 2020. [CCF A]
 - Dan Wang, Wei Bao, **Chuang Hu**, Yi Qian, Muqiao Zheng, Shi Wang, “sTube: An Architecture for IoT Communication Sharing”, IEEE Communications Magazine, 2018.
