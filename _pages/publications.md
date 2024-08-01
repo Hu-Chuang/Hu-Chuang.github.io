@@ -24,6 +24,8 @@ author_profile: true
 
 Journal Papers
 ------
+- Yaqi Xia, Zheng Zhang, Donglin Yang, **Chuang Hu**, Xiaobo Zhou, Hongyang Chen, Qianlong Sang, Dazhao Cheng, “[
+Redundancy-free and load-balanced TGNN training with hierarchical pipeline parallelism](../_research/TPDS202404.pdf)”, IEEE TPDS, 2024. [CCF A]
 - Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, **Chuang Hu**, Zhigao Zheng, Ziyi Zhang, Yingxia Shao, Ce Zhang, “[How Good Are Machine Learning Clouds?—Benchmarking Two Snapshots over Five Years](../_research/VLDBJ202401.pdf)”, VLDBJ, 2024. [CCF A]
 - Dazhao Cheng, Kai Yan, Xinquan Cai, Yili Gong, **Chuang Hu**, “[SLO-Aware Function Placement for Serverless Workflows with Layer-Wise Memory Sharing](../_research/TPDS202401.pdf)”, IEEE TPDS, 2024. [CCF A]
 - Tianyu Tu, Zhili He, Zhigao Zheng, Zimu Zheng, Jiawei Jiang, Yili Gong, **Chuang Hu**, Dazhao Cheng, "[Towards Lifelong Unseen Task Processing With a Lightweight Unlabeled Data Schema for AIoT](../_research/IoTJ202401.pdf)", IEEE IoTJ, 2024. [CCF C]
