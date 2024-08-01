@@ -50,6 +50,8 @@ Redundancy-free and load-balanced TGNN training with hierarchical pipeline paral
 
 Conference Papers
 ------
+- Tao Ling, Siping SHI, Hao Wang, **Chuang Hu**, Dan Wang, “Federated Morozov Regularization for Shortcut Learning in Privacy Preserving Learning with Watermarked Image Data”, ACM MM'24, 2024.[CCF A]
+- Zhili He, Tianyu Tu, Kanye Ye Wang, Bing Luo, Dazhao Cheng, **Chuang Hu**, “Federated Spectrum Management Through Hedonic Coalition Formation”, IEEE ApNet'24, 2024.[CCF C]
 - Yuxiang Wang, Xiao Yan, **Chuang Hu**, Quanqing Xu, Chuanhui Yang, Fangcheng Fu, Wentao Zhang, Hao Wang, Bo Du, Jiawei Jiang, “Generative and Contrastive Paradigms Are Complementary for Graph Self-Supervised Learning”, IEEE ICDE'24, 2024.[CCF A]
 - Rui Lu, Lai Wei, Shuntao Zhu, **Chuang Hu**, Dan Wang, “Pagoda: Privacy Protection for Volumetric Video Streaming through Poisson Diffusion Model”, ACM MM'23, 2023. [CCF A]
 - Junkun Peng, Qing Li, Xiaoteng Ma, Yong Jiang, Yutao Dong, **Chuang Hu**, Meng Chen, “MagNet: Cooperative Edge Caching by Automatic Content Congregating”, ACM WWW'22, 2022. [CCF A]
