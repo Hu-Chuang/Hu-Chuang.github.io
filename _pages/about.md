@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Assistant Professor 
-School of Computer Science, Wuhan University.
+Postdoctoral Researcher 
+State Key Laboratory of Internet of Things for Smart City, University of Macau.
 
 **Biography:**
-I am currently an Assistant Professor at [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/). I got my B. Sc and M. Sc from Wuhan University, and Ph. D. from [the Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), and prior to joining WHU, I was a Postdoctoral Researcher and Research Assistant professor at PolyU. 
+I am currently a Postdoctoral Researcher at [University of Macau (UM)}(https://www.um.edu.mo/). I got my B. Sc and M. Sc from Wuhan University, and Ph. D. from [the Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), and prior to joining UM, I was a Postdoctoral Researcher and Research Assistant professor at PolyU. 
 
-Email: handc[at]whu.edu.cn
+Email: Chuanghu[at]um.edu.cn
 
 **Research Interests:**
 Edge Learning, Distributed Computing, Data Analytics.
@@ -24,7 +24,7 @@ Recruiting
 ======
 I have multiple positions for PhD, M.Sc, and RAs.
 
-Interested applicants (majoring in EE/CS or related) with strong computer architecture, mathematical, and machine learning backgrounds, please email me your CV, transcript, awards, and publications (if any) at hand[at]whu.edu.cn.
+Interested applicants (majoring in EE/CS or related) with strong computer architecture, mathematical, and machine learning backgrounds, please email me your CV, transcript, awards, and publications (if any) at chuanghu[at]um.edu.cn.
 
 
 Group: INTELLIGENT COMPUTING SYSTEM LAB
@@ -55,6 +55,7 @@ Services
 
 Conference (Technical) Program Committee Member
 ------
+- ACM WWW 2025
 - ACM MultiMedia 2023,2024,2025
 - IEEE ICDCS 2024
 - ACM ICA3PP 2023,2024
