@@ -24,6 +24,8 @@ author_profile: true
 
 Journal Papers
 ------
+- **Chuang Hu**, Tianyu Tu, Yili Gong, Jiawei Jiang, Zhigao Zheng, Dazhao Cheng, “[Tackling Multiplayer Interaction for Federated Generative Adversarial Networks](../_research/TMC202401.pdf)”, IEEE TMC, 2024. [CCF A]
+- Qianlong Sang, Jinqi Yan, Rui Xie, **Chuang Hu**, Kun Suo, Dazhao Cheng, “[QoS-Aware Power Management via Scheduling and Governing Co-Optimization on Mobile Devices](../_research/TMC202402.pdf)”, IEEE TMC, 2024. [CCF A]
 - Yaqi Xia, Zheng Zhang, Donglin Yang, **Chuang Hu**, Xiaobo Zhou, Hongyang Chen, Qianlong Sang, Dazhao Cheng, “[
 Redundancy-free and load-balanced TGNN training with hierarchical pipeline parallelism](../_research/TPDS202404.pdf)”, IEEE TPDS, 2024. [CCF A]
 - Jiawei Jiang, Yi Wei, Yu Liu, Wentao Wu, **Chuang Hu**, Zhigao Zheng, Ziyi Zhang, Yingxia Shao, Ce Zhang, “[How Good Are Machine Learning Clouds?—Benchmarking Two Snapshots over Five Years](../_research/VLDBJ202401.pdf)”, VLDBJ, 2024. [CCF A]
