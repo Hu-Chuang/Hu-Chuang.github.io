@@ -66,6 +66,7 @@ Conference Papers
 - Qinbo Zhang, Xiao Yan, Yukai Ding, Fangcheng Fu, Quanqing Xu, Ziyi Li, **Chuang Hu**, Jiawei Jiang, “HaCore: Efficient Coreset Construction with Locality Sensitive Hashing for Vertical Federated Learning”, AAAI'25, 2025. [CCF A]
 - Qinbo Zhang, Xiao Yan, Yukai Ding, Fangcheng Fu, **Chuang Hu**, Quanqing Xu, Xu Chen, Jiawei Jiang, “RAP: Random Projection is What You Need for Vertical Federated Learning”, DASFAA'25, 2025. [CCF B]
 - Wenhan Wu, Jiawei Jiang, **Chuang Hu**, “Aegis: Post-Training Attribute Unlearning in Federated Recommender Systems against Attribute Inference Attacks”, WWW'25, 2025. [CCF A]
+- Siyu Wang, Janice Jianing Si, Huanghuang Liang, **Chuang Hu**, Dazhao Cheng, Yujun Zhu, Xiaobo Zhou, Kanye Ye Wang, “Understanding the Challenges Children Face with non-English-based Programming Language Due to the Language Translation: A Case Study of Keywords in the Chinese Version of Scratch”, ACM CHI'25, 2025. [CCF A]
 - Hangkit Choi, Junxuan Liao, Yuming Xiong, Yili Gong, **Chuang Hu**, Dazhao Cheng, “Finestra: Multi-aggregator Swarm Learning for Gradient Leakage Defense”, ICA3PP'24, 2024. [CCF C]
 - Tao Ling, Siping SHI, Hao Wang, **Chuang Hu**, Dan Wang, “Federated Morozov Regularization for Shortcut Learning in Privacy Preserving Learning with Watermarked Image Data”, ACM MM'24, 2024. [CCF A]
 - Yihang Fu, Mingwei Jing, Jiaolun Zhou, Peilin Wu, Ye Wang, Luyao Zhang, **Chuang Hu**, “Quantifying the blockchain trilemma: A Comparative Analysis of Algorand, Ethereum 2.0, and Beyond”, IEEE MetaCom'24, 2024. [CCF A]
