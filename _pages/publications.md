@@ -24,6 +24,9 @@ author_profile: true
 
 Journal Papers
 ------
+- Jingrou Wu, **Chuang Hu**, Jin Zhang, Dan Wang, Jing Jiang, “[Gemini+: Enhancing Real-Time Video Analytics with Dual-Image FPGAs](../_research/TCAD25a.pdf)”, IEEE TCAD, 2025. [CCF A]
+- Xiaoming Han, Boan Liu, **Chuang Hu**, Dazhao Cheng, “[OWL: Worker-assisted server bandwidth optimization for efficient communication federated learning](../_research/JPDC25a.pdf)”, JPDC, 2025. [CCF B]
+- Rui Ge, Huanghuang Liang, Zhen Gong，**Chuang Hu**, Xiaobo Zhou, Dazhao Cheng, “[Streamlining Data Transfer in Collaborative SLAM Through Bandwidth-Aware Map Distillation](../_research/TMC25a.pdf)”, IEEE TMC, 2025. [CCF A]
 - **Chuang Hu**, Tianyu Tu, Yili Gong, Jiawei Jiang, Zhigao Zheng, Dazhao Cheng, “[Tackling Multiplayer Interaction for Federated Generative Adversarial Networks](../_research/TMC202401.pdf)”, IEEE TMC, 2024. [CCF A]
 - Qianlong Sang, Jinqi Yan, Rui Xie, **Chuang Hu**, Kun Suo, Dazhao Cheng, “[QoS-Aware Power Management via Scheduling and Governing Co-Optimization on Mobile Devices](../_research/TMC202402.pdf)”, IEEE TMC, 2024. [CCF A]
 - Yaqi Xia, Zheng Zhang, Donglin Yang, **Chuang Hu**, Xiaobo Zhou, Hongyang Chen, Qianlong Sang, Dazhao Cheng, “[
