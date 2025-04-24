@@ -59,21 +59,26 @@ Journal Papers
 
 Conference Papers
 ------
-- Qinbo Zhang, Xiao Yan, Yukai Ding, Fangcheng Fu, Quanqing Xu, Ziyi Li, **Chuang Hu**, Jiawei Jiang, “HaCore: Efficient Coreset Construction with Locality Sensitive Hashing for Vertical Federated Learning”, AAAI'25, 2024. [CCF A]
-- Wenhan Wu, Jiawei Jiang, **Chuang Hu**, “Aegis: Post-Training Attribute Unlearning in Federated Recommender Systems against Attribute Inference Attacks”, WWW'25, 2024. [CCF A]
-- Hangkit Choi, Junxuan Liao, Yuming Xiong, Yili Gong, **Chuang Hu**, Dazhao Cheng, “Finestra: Multi-aggregator Swarm Learning for Gradient Leakage Defense”, ICA3PP'25, 2024. [CCF C]
+- Qinbo Zhang, Xiao Yan, Yanfeng Zhao, Fangcheng Fu, Quanqing Xu, Yukai Ding, Xiaokai Zhou, **Chuang Hu**, Jiawei Jiang, “Model Rake: A Defense Against Stealing Attacks in Split Learning”, IJCAI'25, 2025. [CCF A]
+- Yuxiang Wang, Xiao Yan, Shiyu Jin, Quanqing, **Chuang Hu**, Yuanyuan Zhu, Bo Du, Jia Wu, Jiawei Jiang, “Exploiting Text Semantics for Few and Zero Shot Node Classification on Text-attributed Graph”, IJCAI'25, 2025. [CCF A]
+- Wenhan Wu, Huanghuang Liang, Jingling Yuan, Jiawei Jiang, Kanye Ye Wang, **Chuang Hu**, Xiaobo Zhou, Dazhao Cheng, “Zero-shot Federated Unlearning via Transforming from Data-Dependent to Personalized Model-Centric”, IJCAI'25, 2025. [CCF A]
+- Wenhan Wu, Yili Gong, Jiawei Jiang, **Chuang Hu**, Xiaobo Zhou, Dazhao Cheng, “Defending against Attribute Inference Attacks in Post-Training of Recommendation Systems via Unlearning”, IEEE ICDE'25, 2025. [CCF A]
+- Qinbo Zhang, Xiao Yan, Yukai Ding, Fangcheng Fu, Quanqing Xu, Ziyi Li, **Chuang Hu**, Jiawei Jiang, “HaCore: Efficient Coreset Construction with Locality Sensitive Hashing for Vertical Federated Learning”, AAAI'25, 2025. [CCF A]
+- Qinbo Zhang, Xiao Yan, Yukai Ding, Fangcheng Fu, **Chuang Hu**, Quanqing Xu, Xu Chen, Jiawei Jiang, “RAP: Random Projection is What You Need for Vertical Federated Learning”, DASFAA'25, 2025. [CCF B]
+- Wenhan Wu, Jiawei Jiang, **Chuang Hu**, “Aegis: Post-Training Attribute Unlearning in Federated Recommender Systems against Attribute Inference Attacks”, WWW'25, 2025. [CCF A]
+- Hangkit Choi, Junxuan Liao, Yuming Xiong, Yili Gong, **Chuang Hu**, Dazhao Cheng, “Finestra: Multi-aggregator Swarm Learning for Gradient Leakage Defense”, ICA3PP'24, 2024. [CCF C]
 - Tao Ling, Siping SHI, Hao Wang, **Chuang Hu**, Dan Wang, “Federated Morozov Regularization for Shortcut Learning in Privacy Preserving Learning with Watermarked Image Data”, ACM MM'24, 2024. [CCF A]
-- Yihang Fu, Mingwei Jing, Jiaolun Zhou, Peilin Wu, Ye Wang, Luyao Zhang, **Chuang Hu**, “Quantifying the blockchain trilemma: A comparative analysis of algorand, ethereum 2.0, and beyond”, IEEE MetaCom'24, 2024. [CCF A]
+- Yihang Fu, Mingwei Jing, Jiaolun Zhou, Peilin Wu, Ye Wang, Luyao Zhang, **Chuang Hu**, “Quantifying the blockchain trilemma: A Comparative Analysis of Algorand, Ethereum 2.0, and Beyond”, IEEE MetaCom'24, 2024. [CCF A]
 - Zhili He, Tianyu Tu, Kanye Ye Wang, Bing Luo, Dazhao Cheng, **Chuang Hu**, “Federated Spectrum Management Through Hedonic Coalition Formation”, IEEE ApNet'24, 2024. [CCF C]
-- Yihang Fu, Mingwei Jing, Jiaolun Zhou, Peilin Wu, Ye Wang, Luyao Zhang, **Chuang Hu**, “TreeCSS: An Efficient Framework for Vertical Federated Learning”, DASFAA'24, 2024. [CCF B]
-- Yufan Lu, **Chuang Hu**, Yili Gong, Dazhao Cheng, “Improving User Experience via Reinforcement Learning-Based Resource Management on Mobile Devices”, ICIC'24, 2024.[CCF C]
-- Yuxiang Wang, Xiao Yan, **Chuang Hu**, Quanqing Xu, Chuanhui Yang, Fangcheng Fu, Wentao Zhang, Hao Wang, Bo Du, Jiawei Jiang, “Generative and Contrastive Paradigms Are Complementary for Graph Self-Supervised Learning”, IEEE ICDE'24, 2024.[CCF A]
+- Yihang Fu, Mingwei Jing, Jiaolun Zhou, Peilin Wu, Ye Wang, Luyao Zhang, **Chuang Hu**, Jiawei Jiang, “TreeCSS: An Efficient Framework for Vertical Federated Learning”, DASFAA'24, 2024. [CCF B]
+- Yufan Lu, **Chuang Hu**, Yili Gong, Dazhao Cheng, “Improving User Experience via Reinforcement Learning-Based Resource Management on Mobile Devices”, ICIC'24, 2024. [CCF C]
+- Yuxiang Wang, Xiao Yan, **Chuang Hu**, Quanqing Xu, Chuanhui Yang, Fangcheng Fu, Wentao Zhang, Hao Wang, Bo Du, Jiawei Jiang, “Generative and Contrastive Paradigms Are Complementary for Graph Self-Supervised Learning”, IEEE ICDE'24, 2024. [CCF A]
 - Rui Lu, Lai Wei, Shuntao Zhu, **Chuang Hu**, Dan Wang, “Pagoda: Privacy Protection for Volumetric Video Streaming through Poisson Diffusion Model”, ACM MM'23, 2023. [CCF A]
 - Junkun Peng, Qing Li, Xiaoteng Ma, Yong Jiang, Yutao Dong, **Chuang Hu**, Meng Chen, “MagNet: Cooperative Edge Caching by Automatic Content Congregating”, ACM WWW'22, 2022. [CCF A]
 - Bihai Zhang, Siping Shi, Dan Wang, **Chuang Hu**, “EPC: a Video Analytics System with Eﬀicient Edge-side Privacy Control”, Mobiarch’22, 2022.
 - Rui Lu, Siping Shi, Dan Wang, **Chuang Hu**, Bihai Zhang, “Preva: Protecting Inference Privacy through Policy-based Video-frame Transformation”, ACM/IEEE SEC’22, 2022.
 - **Chuang Hu**, Huanghuang Liang, Xiaoming Han, Boan Liu, Dazhao Cheng, and Dan Wang, “Spread: Decentralized Model Aggregation for Scalable Federated Learning”, ICPP’22, 2022. [CCF B].
-- 魏森, 周浩然, **胡创**, 程大钊, “基于混合内存的 Apache Spark 缓存系统实现与优化”, 全国开放式分布与并行计算学术年会（DPCS 2022）.[Best Paper]
+- 魏森, 周浩然, **胡创**, 程大钊, “基于混合内存的 Apache Spark 缓存系统实现与优化”, 全国开放式分布与并行计算学术年会（DPCS), 2022. [Best Paper]
 - Rui Lu, **Chuang Hu**, Dan Wang, and Jin Zhang, “Gemini: a Real-time Video Analytics System with Dual Computing Resource Control”, ACM/IEEE SEC’22, 2022.
 - Siping Shi, **Chuang Hu**, Dan Wang, and Yifei Zhu, and Zhu Han, “Distributionally Robust Federated Learning for Differentially Private Data”, IEEE ICDCS’22, 2022. [CCF B]
 - **Chuang Hu**, Wei Bao, Dan Wang, and Fengming Liu, “Dynamic Adaptive DNN Surgery for Inference Acceleration on the Edge”, IEEE INFOCOM’19, 2019. [CCF A]
