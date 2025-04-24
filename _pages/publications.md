@@ -27,7 +27,10 @@ Journal Papers
 - Jingrou Wu, **Chuang Hu**, Jin Zhang, Dan Wang, Jing Jiang, “[Gemini+: Enhancing Real-Time Video Analytics with Dual-Image FPGAs](../_research/TCAD25a.pdf)”, IEEE TCAD, 2025. [CCF A]
 - Xiaoming Han, Boan Liu, **Chuang Hu**, Dazhao Cheng, “[OWL: Worker-assisted server bandwidth optimization for efficient communication federated learning](../_research/JPDC25a.pdf)”, JPDC, 2025. [CCF B]
 - Rui Ge, Huanghuang Liang, Zhen Gong，**Chuang Hu**, Xiaobo Zhou, Dazhao Cheng, “[Streamlining Data Transfer in Collaborative SLAM Through Bandwidth-Aware Map Distillation](../_research/TMC25a.pdf)”, IEEE TMC, 2025. [CCF A]
-- **Chuang Hu**, Tianyu Tu, Yili Gong, Jiawei Jiang, Zhigao Zheng, Dazhao Cheng, “[Tackling Multiplayer Interaction for Federated Generative Adversarial Networks](../_research/TMC202401.pdf)”, IEEE TMC, 2024. [CCF A]
+- Yuqing Zhang, **Chuang Hu**, Dazhao Cheng, GVA: general content-aware feature map reusing structure for edge-side video analytics, Journal of Electronic Imaging, 2025. 
+- Hanqi Feng, **Chuang Hu**, Dazhao Cheng, Priva: privacy reversible and intelligible video analytics system through diffusion restoration models, Journal of Electronic Imaging, 2025.
+- Huanghuang Liang, Xin Yang, Xiaoming Han, Boan Liu,**Chuang Hu**, Dan Wang, Xiaobo Zhou, Dazhao Cheng, “[Spread+: Scalable Model Aggregation in Federated Learning with Non-IID Data](../_research/TPDS25a.pdf)”, IEEE TPDS, 2025. [CCF A]
+- - **Chuang Hu**, Tianyu Tu, Yili Gong, Jiawei Jiang, Zhigao Zheng, Dazhao Cheng, “[Tackling Multiplayer Interaction for Federated Generative Adversarial Networks](../_research/TMC202401.pdf)”, IEEE TMC, 2024. [CCF A]
 - Qianlong Sang, Jinqi Yan, Rui Xie, **Chuang Hu**, Kun Suo, Dazhao Cheng, “[QoS-Aware Power Management via Scheduling and Governing Co-Optimization on Mobile Devices](../_research/TMC202402.pdf)”, IEEE TMC, 2024. [CCF A]
 - Yaqi Xia, Zheng Zhang, Donglin Yang, **Chuang Hu**, Xiaobo Zhou, Hongyang Chen, Qianlong Sang, Dazhao Cheng, “[
 Redundancy-free and load-balanced TGNN training with hierarchical pipeline parallelism](../_research/TPDS202404.pdf)”, IEEE TPDS, 2024. [CCF A]
