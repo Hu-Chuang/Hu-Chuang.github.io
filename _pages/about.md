@@ -30,6 +30,7 @@ Interested applicants (majoring in EE/CS or a related field) with strong backgro
 
 Group: INTELLIGENT COMPUTING SYSTEM LAB
 ======
+[Intelligent Computing System Lab (ICSLAB)](https://icslab.whu.edu.cn/)
 
 <!--Ph.D. Students-->
 My Fellow Students:
