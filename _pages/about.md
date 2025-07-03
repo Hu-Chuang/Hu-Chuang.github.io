@@ -49,6 +49,7 @@ My Fellow Students
 
 Services
 ======
+
 Guest Editor
 ------
 - TDSC 2025
@@ -66,9 +67,7 @@ Journal Reviewer
 -TC, TPDS, TON, JSAC, TMC, TKDE
 -IoTJ, Network, TBD, TNSM
 
-
 <!--Organizing Committee Member-->
-
 
 Selected Awards
 ======
