@@ -25,31 +25,27 @@ Recruiting
 ======
 I have multiple positions for PhD, M.Sc, and RAs.
 
-Interested applicants (majoring in EE/CS or related) with strong computer architecture, mathematical, and machine learning backgrounds, please email me your CV, transcript, awards, and publications (if any) at chuanghu[at]um.edu.cn.
+Interested applicants (majoring in EE/CS or a related field) with strong backgrounds in computer architecture, mathematics, and machine learning, please email your CV, transcript, awards, and publications (if any) to chuanghu[at]um.edu.cn.
 
 
 Group: INTELLIGENT COMPUTING SYSTEM LAB
 ======
 
 <!--Ph.D. Students-->
-
-Master Students
+My Fellow Students:
 ------
-- Tianyu Tu
-- Hanqi Feng
-- Hangkit Choi
-- Yuanquan Hu
+- Tianyu Tu, graduation 2025, PhD student at Hong Kong University of Science and Technology (HKUST) 
+- Hanqi Feng, graduation 2025, Meituan
+- Shengqi Yuan, graduation 2025, Master student at UCSD
+- Nanxi Wu, graduation 2024, China Telecom
+- Jinrong Yang, graduation 2024, PhD student at IPADS, Shanghai Jiao Tong University
+- Sixing Lin, graduation 2024, Master student at Tsinghua University
+- Junxuan Liao, graduation 2024, PhD student at  UW-Madison
+
 
 <!--Research Assistants-->
 
 <!--本科生具体指导时间！！-->
-
-Alumni (Selected from supervised research students)
-------
-- Jinrong Yang, Undergraduate student, 2022-2024 -> PhD student at SJTU IPADS 
-- Junxuan Liao, Undergraduate student, 2022-2024 -> PhD student at UW-Madison
-- Sixing Lin, Undergraduate student, 2022-2024 -> Master student at THU IT
-- Nanxi Wu, Master student, 2022-2024 -> China Telecom, Shenzhen
 
 Services
 ======
