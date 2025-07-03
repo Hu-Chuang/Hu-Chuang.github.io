@@ -73,7 +73,7 @@ Journal Reviewer
 Selected Awards
 ======
 <!--时间不限：奖学金，比赛获奖，企业奖项，-->
-- Huawei Academic Reseracher Award 2023
+- Huawei Academic Research Award 2023
 - KubeEdge Academic Award 2023
 - Hubei Chutian Scholar 2023
 - Wuhan Talent Researcher 2022
