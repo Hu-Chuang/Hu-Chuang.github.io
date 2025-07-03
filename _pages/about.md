@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Researcher 
+Postdoctoral Researcher
+
 State Key Laboratory of Internet of Things for Smart City, University of Macau.
 
 **Biography:**
