@@ -34,11 +34,11 @@ Group: INTELLIGENT COMPUTING SYSTEM LAB
 <!--Ph.D. Students-->
 My Fellow Students:
 ------
-- Tianyu Tu, graduation 2025, PhD student at Hong Kong University of Science and Technology (HKUST) 
+- Tianyu Tu, graduation 2025, PhD student at HKUST
 - Hanqi Feng, graduation 2025, Meituan
 - Shengqi Yuan, graduation 2025, Master student at UCSD
 - Nanxi Wu, graduation 2024, China Telecom
-- Jinrong Yang, graduation 2024, PhD student at IPADS, Shanghai Jiao Tong University
+- Jinrong Yang, graduation 2024, PhD student at IPADS, SJTU
 - Sixing Lin, graduation 2024, Master student at Tsinghua University
 - Junxuan Liao, graduation 2024, PhD student at  UW-Madison
 
