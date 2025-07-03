@@ -42,25 +42,28 @@ My Fellow Students:
 - Sixing Lin, graduation 2024, Master student at Tsinghua University
 - Junxuan Liao, graduation 2024, PhD student at  UW-Madison
 
-
 <!--Research Assistants-->
 
 <!--本科生具体指导时间！！-->
 
 Services
 ======
-
+Guest Editor
+------
+- TDSC 2025
+- Electronics 2025
+  
 Conference (Technical) Program Committee Member
 ------
-- ACM WWW 2025
-- ACM MultiMedia 2023,2024,2025
-- IEEE ICDCS 2024
-- ACM ICA3PP 2023,2024
-- IEEE/ACM IWQoS 2020、2023
+- WWW 2025, ICDE 2025, ICCCN 2025
+- MM 2024, AAAI 2024, IJCAI 2024, ICDCS 2024
+- MM 2023, IWQoS 2023, ICA3PP 2023
+- IWQOS 2020
 
 Journal Reviewer
 ------
--IEEE TKDE、IEEE TC、 IEEE TPDS、IEEE TMC、IEEE IoTJ、IEEE Network、IEEE TBD、IEEE TNSM
+-TC, TPDS, TON, JSAC, TMC, TKDE
+-IoTJ, Network, TBD, TNSM
 
 
 <!--Organizing Committee Member-->
@@ -69,6 +72,7 @@ Journal Reviewer
 Selected Awards
 ======
 <!--时间不限：奖学金，比赛获奖，企业奖项，-->
+- Huawei Academic Reseracher Award 2023
 - KubeEdge Academic Award 2023
 - Hubei Chutian Scholar 2023
 - Wuhan Talent Researcher 2022
