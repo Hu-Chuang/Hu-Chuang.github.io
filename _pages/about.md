@@ -28,12 +28,12 @@ I have multiple positions for PhD, M.Sc, and RAs.
 Interested applicants (majoring in EE/CS or a related field) with strong backgrounds in computer architecture, mathematics, and machine learning, please email your CV, transcript, awards, and publications (if any) to chuanghu[at]um.edu.cn.
 
 
-Group: INTELLIGENT COMPUTING SYSTEM LAB
+Research Group
 ======
 [Intelligent Computing System Lab (ICSLAB)](https://icslab.whu.edu.cn/)
 
 <!--Ph.D. Students-->
-My Fellow Students:
+My Fellow Students
 ------
 - Tianyu Tu, graduation 2025, PhD student at HKUST
 - Hanqi Feng, graduation 2025, Meituan
