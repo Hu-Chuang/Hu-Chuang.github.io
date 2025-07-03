@@ -12,7 +12,7 @@ Postdoctoral Researcher
 State Key Laboratory of Internet of Things for Smart City, University of Macau.
 
 **Biography:**
-I am currently a Postdoctoral Researcher at [University of Macau (UM)}(https://www.um.edu.mo/). I got my B. Sc and M. Sc from Wuhan University, and Ph. D. from [the Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), and prior to joining UM, I was a Postdoctoral Researcher and Research Assistant professor at PolyU. 
+I am currently a Postdoctoral Researcher at [University of Macau (UM)](https://www.um.edu.mo/). I got my B. Sc and M. Sc from Wuhan University, and Ph. D. from [the Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), and prior to joining UM, I was a Postdoctoral Researcher and Research Assistant professor at PolyU. 
 
 Email: Chuanghu[at]um.edu.cn
 
