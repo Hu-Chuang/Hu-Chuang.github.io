@@ -61,6 +61,7 @@ Journal Papers
 
 Conference Papers
 ------
+- Xiaoyue Yang, Chuang Hu, Dazhao Cheng, "Seaswarm: Mitigating Stragglers in Cross-Silo Swarm Learning via Semi-asynchronous Communication", ICIC'25, 2025. [CCF C]
 - Yujia Tong, Yuze Wang, Jingling Yuan, **Chuang Hu**, "Robust Machine Unlearning for Quantized Neural Networks via Adaptive Gradient Reweighting with Similar Labels", ICCV'25, 2025. [CCF A]
 - Qinbo Zhang, Xiao Yan, Yanfeng Zhao, Fangcheng Fu, Quanqing Xu, Yukai Ding, Xiaokai Zhou, **Chuang Hu**, Jiawei Jiang, “Model Rake: A Defense Against Stealing Attacks in Split Learning”, IJCAI'25, 2025. [CCF A]
 - Yuxiang Wang, Xiao Yan, Shiyu Jin, Quanqing, **Chuang Hu**, Yuanyuan Zhu, Bo Du, Jia Wu, Jiawei Jiang, “Exploiting Text Semantics for Few and Zero Shot Node Classification on Text-attributed Graph”, IJCAI'25, 2025. [CCF A]
