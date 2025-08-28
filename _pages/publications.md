@@ -24,6 +24,8 @@ author_profile: true
 
 Journal Papers
 ------
+- Tao Ling, Siping Shi, Hao Wang, **Chuang Hu**, and Dan Wang, "[An Efficient On-Device Federated Learning System
+through the Interplay of Client Selection and Batch Size with Watermarked Data](../_research/TMC-Ling.pdf)",TMC, 2025.[CCF A]
 - Yi Wei, Xuan Zhou, Hao Huang, Hao Wang, **Chuang Hu**, Jiawei Jiang, "[Secure spatial remote sensing image matching](../_research/GeoInformatica25.pdf)", GeoInformatica, 2025.
 - Wenhan Wu, Huanghuang Liang, Tianyu Tu, Jiawei Jiang, **Chuang Hu**, Dazhao Cheng, “[Mimir: Data-Free Federated Unlearning Through Client-Specific Prompt Generation for Personalized Models](../_research/TMC25b.pdf)”, IEEE TMC, 2025. [CCF A]
 - Jingrou Wu, **Chuang Hu**, Jin Zhang, Dan Wang, Jing Jiang, “[Gemini+: Enhancing Real-Time Video Analytics with Dual-Image FPGAs](../_research/TCAD25a.pdf)”, IEEE TCAD, 2025. [CCF A]
